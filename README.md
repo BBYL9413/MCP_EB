@@ -1,6 +1,8 @@
 # MCP EB 使用说明
 
-MCP EB 是一个提供持续交互能力的 MCP 工具服务，面向 GitHub Copilot 等 AI 助手，支持通过 Web UI 与用户进行循环式沟通。
+MCP EB 是一个提供持续交互能力的 MCP 工具服务，面向 GitHub Copilot 等 AI 助手，可以无限量调用Claude、GPT、Gemini等顶级模型。 
+
+请自备Copilot Pro/Pro+，谢谢
 
 ---
 
